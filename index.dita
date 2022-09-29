@@ -3,9 +3,9 @@
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 <topic id="dita-otprojecthome">
   <title>DITA Open Toolkit <keyword keyref="release"/></title>
-  <shortdesc><term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is a set of Java-based, open-source
-    tools that provide processing for content authored in the <term>Darwin Information Typing
-    Architecture</term>.</shortdesc>
+  <shortdesc><term>DITA Odsapen Toolkit</term>, or <term>DITA-OT</term> for short, is a set of
+    Java-based, open-source tools that provide processing for content authored in the <term>Darwin
+      Information Typing Architecture</term>.</shortdesc>
   <prolog>
     <metadata>
       <keywords>
