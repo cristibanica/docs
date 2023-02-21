@@ -31,7 +31,8 @@
     <prereq>
       <ul>
         <li>
-          <p>Ensure that you have a Java Runtime Environment (JRE) or Java Development Kit (JDK).</p>
+          <p>1Ensure that you have a Java Runtime Environment (JRE) or Java Development Kit
+            (JDK).</p>
           <p conkeyref="reusable-components/java-clients"/></li>
         <li importance="optional" platform="windows">If you want to generate HTML Help, ensure that you have HTML Help
           Workshop installed.
